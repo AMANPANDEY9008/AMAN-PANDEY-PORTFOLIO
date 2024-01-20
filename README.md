@@ -66,8 +66,8 @@
         </div>
 
         <div class="project">
-            <h3>Project 2</h3>
-            <p>PORNHUB KE SABSE BADE SELLER AUR</p>
+            <h3>DESIGNATION</h3>
+            <p>CERTIFIED ETHICAL HACKER</p>
         </div>
 
         <!-- Add more projects as needed -->
